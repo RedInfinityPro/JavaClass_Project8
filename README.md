@@ -1,5 +1,6 @@
 # JavaFinanceHelper
 
+
 StockAnalyzer is a Java program that calculates metrics related to rectangles and stocks. It allows users to input width and height of a rectangle, and stock information, calculating price change percentages.
 
 ## Table of Contents
